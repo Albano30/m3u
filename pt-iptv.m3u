@@ -1,0 +1,525 @@
+#EXTM3U
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Portugal",RTP 1 HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11136
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Portugal",RTP 1
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11137
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Portugal",RTP 2 HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11138
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Portugal",RTP 2
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11139
+#EXTINF:0 tvg-id="sic.pt" group-title="Portugal",SIC FHD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/48139
+#EXTINF:0 tvg-id="sic.pt" group-title="Portugal",SIC HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11140
+#EXTINF:0 tvg-id="sic.pt" group-title="Portugal",SIC
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11141
+#EXTINF:0 tvg-id="TVI.pt" group-title="Portugal",TVI FHD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/48140
+#EXTINF:0 tvg-id="TVI.pt" group-title="Portugal",TVI HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11142
+#EXTINF:0 tvg-id="TVI.pt" group-title="Portugal",TVI
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11143
+#EXTINF:0 tvg-id="ext" group-title="Portugal",RTP 3 HD Hevc
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/105685
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Portugal",RTP 3
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11150
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Portugal",SIC NOTÍCIAS HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11144
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Portugal",SIC NOTÍCIAS
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11145
+#EXTINF:0 tvg-id="ext" group-title="Portugal",CNN PORTUGAL HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11148
+#EXTINF:0 tvg-id="TVI24.pt" group-title="Portugal",CNN PORTUGAL
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11149
+#EXTINF:0 tvg-id="CMTV.pt" group-title="Portugal",CMTV HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11146
+#EXTINF:0 tvg-id="CMTV.pt" group-title="Portugal",CMTV
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11147
+#EXTINF:0 tvg-id="ext" group-title="Portugal",NOW HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/109851
+#EXTINF:0 tvg-id="Now.pt" group-title="Portugal",Now
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/109852
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="Portugal",SIC MULHER HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11151
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="Portugal",SIC MULHER
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11152
+#EXTINF:0 tvg-id="sicradical.pt" group-title="Portugal",SIC RADICAL HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/44315
+#EXTINF:0 tvg-id="sicradical.pt" group-title="Portugal",SIC RADICAL
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11153
+#EXTINF:0 tvg-id="SicCaras.pt" group-title="Portugal",SIC CARAS
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11154
+#EXTINF:0 tvg-id="ext" group-title="Portugal",SIC NOVELAS
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/107950
+#EXTINF:0 tvg-id="ext" group-title="Portugal",SIC REPLAY
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/110176
+#EXTINF:0 tvg-id="ext" group-title="Portugal",V+ TVI
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11155
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TVI REALITY HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11156
+#EXTINF:0 tvg-id="Globosp.br" group-title="Portugal",GLOBO HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11163
+#EXTINF:0 tvg-id="TVGlobo.pt" group-title="Portugal",GLOBO
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11164
+#EXTINF:0 tvg-id="GloboNews.pt" group-title="Portugal",GLOBO News
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/106498
+#EXTINF:0 tvg-id="TVRecord.es" group-title="Portugal",TV RECORD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11166
+#EXTINF:0 tvg-id="zapvivahd.pt" group-title="Portugal",ZAP VIVA HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11167
+#EXTINF:0 tvg-id="CanalQ.pt" group-title="Portugal",CANAL Q
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11168
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Portugal",RTP MEMORIA
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11158
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Portugal",RTP AFRICA
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11159
+#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Portugal",RTP MADEIRA
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11160
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Portugal",RTP ACORES
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11161
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Portugal",SPORT TV + HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/63788
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Portugal",SPORT TV +
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11185
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Portugal",SPORT TV 1 FHD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11173
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Portugal",SPORT TV 1 HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11174
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Portugal",SPORT TV 1 SD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11175
+#EXTINF:0 tvg-id="SportTV2.svn" group-title="Portugal",SPORT TV 2 FHD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11176
+#EXTINF:0 tvg-id="SportTV2.svn" group-title="Portugal",SPORT TV 2 HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11177
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Portugal",SPORT TV 2 SD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11178
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Portugal",SPORT TV 3 HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11179
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Portugal",SPORT TV 3
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11180
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Portugal",SPORT TV 4 HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11181
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Portugal",SPORT TV 4
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11182
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Portugal",SPORT TV 5 HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11183
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Portugal",SPORT TV 5
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11184
+#EXTINF:0 tvg-id="SportTV6.pt" group-title="Portugal",SPORT TV 6 HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/88205
+#EXTINF:0 tvg-id="ext" group-title="Portugal",SPORT TV 7 HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/109938
+#EXTINF:0 tvg-id="ext" group-title="Portugal",SPORTTV NBA HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11186
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Portugal",BENFICA TV FHD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11170
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Portugal",BENFICA TV HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11171
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Portugal",BENFICA TV SD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11172
+#EXTINF:0 tvg-id="DAZN209.it" group-title="Portugal",DAZN 1 FHD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11189
+#EXTINF:0 tvg-id="DAZN209.it" group-title="Portugal",DAZN 1 HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11188
+#EXTINF:0 tvg-id="DAZN1.uk" group-title="Portugal",DAZN 1 SD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11187
+#EXTINF:0 tvg-id="DAZN2.de" group-title="Portugal",DAZN 2 FHD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11192
+#EXTINF:0 tvg-id="DAZN2.de" group-title="Portugal",DAZN 2 HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11191
+#EXTINF:0 tvg-id="DAZN2.es" group-title="Portugal",DAZN 2 SD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11190
+#EXTINF:0 tvg-id="DAZN3.es" group-title="Portugal",DAZN 3 FHD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/68172
+#EXTINF:0 tvg-id="DAZN3.es" group-title="Portugal",DAZN 3 HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/68171
+#EXTINF:0 tvg-id="DAZN3.es" group-title="Portugal",DAZN 3
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11195
+#EXTINF:0 tvg-id="DAZN4.es" group-title="Portugal",DAZN 4 HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/68170
+#EXTINF:0 tvg-id="DAZN4.es" group-title="Portugal",DAZN 4
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11196
+#EXTINF:0 tvg-id="ext" group-title="Portugal",DAZN 5HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/68169
+#EXTINF:0 tvg-id="ext" group-title="Portugal",DAZN 5
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11197
+#EXTINF:0 tvg-id="ext" group-title="Portugal",DAZN 6 HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/68168
+#EXTINF:0 tvg-id="ext" group-title="Portugal",DAZN 6
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11198
+#EXTINF:0 tvg-id="ext" group-title="Portugal",W-SPORT HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/107953
+#EXTINF:0 tvg-id="Canal11.pt" group-title="Portugal",CANAL 11
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11199
+#EXTINF:0 tvg-id="ABolaTV.pt" group-title="Portugal",A BOLA TV
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11204
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Portugal",SPORTING TV
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11200
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Portugal",PORTO CANAL
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11201
+#EXTINF:0 tvg-id="esp-hd" group-title="Portugal",EUROSPORT 1 FHD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11202
+#EXTINF:0 tvg-id="esp2" group-title="Portugal",EUROSPORT 2
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11203
+#EXTINF:0 tvg-id="Fightnetwork.gr" group-title="Portugal",FIGHT NETWORK
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/79090
+#EXTINF:0 tvg-id="MotorVision.de" group-title="Portugal",MOTORVISION TV
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11208
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Portugal",FUEL TV
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11209
+#EXTINF:0 tvg-id="ext" group-title="Portugal",REDBULLTV
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/49831
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Racing America
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/105796
+#EXTINF:0 tvg-id="ElGarage.es" group-title="Portugal",Garage TV
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/105794
+#EXTINF:0 tvg-id="ext" group-title="Portugal",MotoAmerica
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/105797
+#EXTINF:0 tvg-id="ext" group-title="Portugal",World Billiards tv
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/105792
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Extreme-Car.pt
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/106459
+#EXTINF:0 tvg-id="WWE.ca" group-title="Portugal",WWE
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/106619
+#EXTINF:0 tvg-id="ext" group-title="Portugal",X-Burnout
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/100065
+#EXTINF:0 tvg-id="TVCineTOP.pt" group-title="Portugal",TVCINE TOP HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11240
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TVCINE TOP
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11241
+#EXTINF:0 tvg-id="TVCineEDITION.pt" group-title="Portugal",TVCINE EDITION HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11242
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TVCINE EDITION
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11243
+#EXTINF:0 tvg-id="TVCineEMOTION.pt" group-title="Portugal",TVCINE EMOTION HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11244
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TVCINE EMOTION
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11245
+#EXTINF:0 tvg-id="TVCineACTION.pt" group-title="Portugal",TVCINE ACTION HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11246
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TVCINE ACTION
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11247
+#EXTINF:0 tvg-id="ext" group-title="Portugal",NOS STUDIOS HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11274
+#EXTINF:0 tvg-id="StarMoviesHD.in" group-title="Portugal",STAR MOVIES HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11256
+#EXTINF:0 tvg-id="StarMovies.in" group-title="Portugal",STAR MOVIES
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11257
+#EXTINF:0 tvg-id="AXNMovies.pt" group-title="Portugal",AXN MOVIES HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11262
+#EXTINF:0 tvg-id="AXNBlack.pt" group-title="Portugal",AXN MOVIES
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11263
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Portugal",CINEMUNDO HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11268
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Portugal",CINEMUNDO
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11269
+#EXTINF:0 tvg-id="hollywood-hd" group-title="Portugal",HOLLYWOOD HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11270
+#EXTINF:0 tvg-id="hollywood" group-title="Portugal",HOLLYWOOD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11271
+#EXTINF:0 tvg-id="AMC.uk" group-title="Portugal",AMC HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11266
+#EXTINF:0 tvg-id="mgm-int" group-title="Portugal",AMC
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11267
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Portugal",SYFY HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/79093
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Portugal",SYFY
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11272
+#EXTINF:0 tvg-id="Start.tr" group-title="Portugal",STAR HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11250
+#EXTINF:0 tvg-id="Star.fi" group-title="Portugal",STAR
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11251
+#EXTINF:0 tvg-id="ext" group-title="Portugal",STAR LIFE HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11252
+#EXTINF:0 tvg-id="StarOne.uk" group-title="Portugal",STAR LIFE
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11253
+#EXTINF:0 tvg-id="ext" group-title="Portugal",STAR CRIME HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11254
+#EXTINF:0 tvg-id="ext" group-title="Portugal",STAR CRIME
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11255
+#EXTINF:0 tvg-id="ext" group-title="Portugal",STAR COMEDY HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11258
+#EXTINF:0 tvg-id="ext" group-title="Portugal",STAR COMEDY
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11259
+#EXTINF:0 tvg-id="AXN.in" group-title="Portugal",AXN HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11260
+#EXTINF:0 tvg-id="AXN.bg" group-title="Portugal",AXN
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11261
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Portugal",AXN WHITE HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11264
+#EXTINF:0 tvg-id="AXNWhite.bg" group-title="Portugal",AXN WHITE
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11265
+#EXTINF:0 tvg-id="Dizi.pl" group-title="Portugal",DIZI
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/5323
+#EXTINF:0 tvg-id="ext" group-title="Portugal",My Time MOVIE NETWORK
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/109843
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XCineTop
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/83694
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XCineAção
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/48046
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XCineAnimation
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/62171
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XCineAventura
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/62240
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XCine Comedy
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/42987
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XCineCamões
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/49482
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XCineCrime
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/63175
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XCineDrama
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/49017
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XCineThriller
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/62948
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XCineTerror
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/49481
+#EXTINF:0 tvg-id="ext" group-title="Portugal",DISNEY +
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/63813
+#EXTINF:0 tvg-id="ext" group-title="Portugal",DISNEY MARVEL
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/63816
+#EXTINF:0 tvg-id="ext" group-title="Portugal",DISNEY PIXAR
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/63815
+#EXTINF:0 tvg-id="disney" group-title="Portugal",DISNEY CHANNEL
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11213
+#EXTINF:0 tvg-id="DisneyJr.blt" group-title="Portugal",DISNEY JUNIOR
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11214
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Portugal",NICKELODEON
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11215
+#EXTINF:0 tvg-id="nick-jr" group-title="Portugal",NICKELODEON JUNIOR
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11216
+#EXTINF:0 tvg-id="canalpanda.pt" group-title="Portugal",CANAL PANDA
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11219
+#EXTINF:0 tvg-id="PandaKIDS.pt" group-title="Portugal",PANDA KIDS
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/107031
+#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Portugal",PANDA BIGGS
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11218
+#EXTINF:0 tvg-id="cartoon" group-title="Portugal",CARTOON NETWORK
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11221
+#EXTINF:0 tvg-id="SicK.pt" group-title="Portugal",SIC K
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11220
+#EXTINF:0 tvg-id="boomerang" group-title="Portugal",BOOMERANG
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/96838
+#EXTINF:0 tvg-id="baby-tv" group-title="Portugal",BABY TV
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11222
+#EXTINF:0 tvg-id="ext" group-title="Portugal",ANIME TV
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/105695
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Portugal",DISCOVERY CHANNEL HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11225
+#EXTINF:0 tvg-id="discov_rus" group-title="Portugal",DISCOVERY CHANNEL
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11226
+#EXTINF:0 tvg-id="id-extra" group-title="Portugal",ID INVESTIGATION DISCOVERY
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11236
+#EXTINF:0 tvg-id="ext" group-title="Portugal",DISCOVERY HOME & HEALTH (BR)
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/80136
+#EXTINF:0 tvg-id="ext" group-title="Portugal",DISCOVERY SCIENCE (BR)
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/80137
+#EXTINF:0 tvg-id="ext" group-title="Portugal",DISCOVERY THEATER (BR)
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/80138
+#EXTINF:0 tvg-id="ext" group-title="Portugal",DISCOVERY TURBO (BR)
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/80139
+#EXTINF:0 tvg-id="ext" group-title="Portugal",PLUTO: TURBO [BR]
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/105694
+#EXTINF:0 tvg-id="natgeo_hd" group-title="Portugal",NATIONAL GEOGRAPHIC HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11227
+#EXTINF:0 tvg-id="natgeo" group-title="Portugal",NATIONAL GEOGRAPHIC
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11228
+#EXTINF:0 tvg-id="natgeowild" group-title="Portugal",NAT GEO WILD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11229
+#EXTINF:0 tvg-id="ext" group-title="Portugal",ODISSEIA HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/79092
+#EXTINF:0 tvg-id="odisseia.pt" group-title="Portugal",ODISSEIA
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11230
+#EXTINF:0 tvg-id="ext" group-title="Portugal",CANAL HISTORIA HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11231
+#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Portugal",CANAL HISTORIA
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11232
+#EXTINF:0 tvg-id="AMCCrime.es" group-title="Portugal",AMC CRIME
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11235
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XReporter
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/49860
+#EXTINF:0 tvg-id="tlc-russia" group-title="Portugal",TLC
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11223
+#EXTINF:0 tvg-id="E.blt" group-title="Portugal",E! ENTERTAINMENT
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11224
+#EXTINF:0 tvg-id="AMCBreak.es" group-title="Portugal",AMC BREAK
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11233
+#EXTINF:0 tvg-id="travel-hd" group-title="Portugal",TRAVEL CHANNEL HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11237
+#EXTINF:0 tvg-id="fashiontv-ru" group-title="Portugal",FASHION TV
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/49834
+#EXTINF:0 tvg-id="24kitchen.nl" group-title="Portugal",24 KITCHEN HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11239
+#EXTINF:0 tvg-id="CasaCozinha.pt" group-title="Portugal",CASA E COZINHA HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/42353
+#EXTINF:0 tvg-id="Splus.pt" group-title="Portugal",S+ HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/70063
+#EXTINF:0 tvg-id="Mundotoro.pt" group-title="Portugal",MUNDOTORO TV
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/107119
+#EXTINF:0 tvg-id="cazaepesca.pt" group-title="Portugal",CAÇA E PESCA
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11212
+#EXTINF:0 tvg-id="ext" group-title="Portugal",CAÇA E PESCA HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11211
+#EXTINF:0 tvg-id="CacaVision.pt" group-title="Portugal",CAÇAVISION
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11210
+#EXTINF:0 tvg-id="Cancaonova.br" group-title="Portugal",Canção Nova HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/61213
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XTheVoice
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/62242
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XMasterChef
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/62523
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XPesadelo na Cozinha
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/68310
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XForjado no Fogo
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/57144
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XPegadinhas
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/62241
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XRir
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/48138
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XFitness
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/50257
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XCharges
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/48065
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XReceitas
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/62526
+#EXTINF:0 tvg-id="ext" group-title="Portugal",PLUTO: Porta dos Fundos
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/105686
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Bimby
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/59201
+#EXTINF:0 tvg-id="mtvportugal.pt" group-title="Portugal",MTV PORTUGAL
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11275
+#EXTINF:0 tvg-id="ext" group-title="Portugal",MTV 00´S
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11234
+#EXTINF:0 tvg-id="mcm-top" group-title="Portugal",MCM TOP
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/100188
+#EXTINF:0 tvg-id="MCMPop.pt" group-title="Portugal",MCM POP
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11277
+#EXTINF:0 tvg-id="vh-1-classic" group-title="Portugal",VH1 MUSIC
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11276
+#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Portugal",AFRO MUSIC
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11279
+#EXTINF:0 tvg-id="TraceToca.eu" group-title="Portugal",TRACE TOCA
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11280
+#EXTINF:0 tvg-id="TraceUrban.ru" group-title="Portugal",TRACE URBAN
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11281
+#EXTINF:0 tvg-id="iconcerts_hd" group-title="Portugal",ICONCERTS HD
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/44316
+#EXTINF:0 tvg-id="ext" group-title="Portugal",ON FM
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/69969
+#EXTINF:0 tvg-id="ClubbingTV.pt" group-title="Portugal",Clubbing TV
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/105696
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Colosal TV
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/105702
+#EXTINF:0 tvg-id="ext" group-title="Portugal",NRG 91 TV
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/105698
+#EXTINF:0 tvg-id="myDeejay.it" group-title="Portugal",DeeJay TV
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/105699
+#EXTINF:0 tvg-id="ext" group-title="Portugal",FM-Italia TV
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/105701
+#EXTINF:0 tvg-id="mezzo" group-title="Portugal",MEZZO
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11278
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XHits
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/57145
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XHitsPT
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/57146
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XRock
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/57147
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XRockPT
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/57148
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XCluB
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/48095
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XSertanejo
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/57143
+#EXTINF:0 tvg-id="ext" group-title="Portugal",XFado
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/56732
+#EXTINF:0 tvg-id="ext" group-title="Portugal",FAMA TV
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/109664
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TVI INTERNAIONAL
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/83715
+#EXTINF:0 tvg-id="RTPi.pt" group-title="Portugal",RTP Internacional
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/105436
+#EXTINF:0 tvg-id="TVGalicia.sp" group-title="Portugal",TV GALICIA
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/49830
+#EXTINF:0 tvg-id="TPA.es" group-title="Portugal",TPA INTERNACIONAL
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/63782
+#EXTINF:0 tvg-id="TCVInternacional.pt" group-title="Portugal",TCV INTERNACIONAL
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/63805
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="Portugal",SKY NEWS
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11283
+#EXTINF:0 tvg-id="cnn" group-title="Portugal",CNN
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/11286
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 007 James Bond
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/68210
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 A Guerra dos Tronos
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/43505
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Anatomia de Grey
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/47041
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Breaking Bad
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/44549
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Creeped Out(VP)
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/47499
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Desliga a Telavisão
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/42775
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Diários de Um Vampiro
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/62524
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 El Chapo
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/46586
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 El recluso
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/43158
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Elite
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/43119
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Fauda
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/47500
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Friends
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/44803
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Hawai Força Especial
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/45036
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Lucifer
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/47109
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Manifest
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/43366
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Narcos
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/42782
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Rome
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/43144
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Sobrenatural
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/43094
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Sobrevivente Designado
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/47564
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Sons of Anarchy
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/47502
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 O Homem do Castelo Alto
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/49927
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Prison Break: Fuga da Prisão
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/56672
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 The Grand Tour
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/47475
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 The Killing
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/45610
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 The Rookie
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/47501
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 The Walking Dead
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/43333
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Titans
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/43503
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Barbie
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/44562
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Captain Tsubasa (2018)
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/62525
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Dino Gauko Girl
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/57469
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Dragon Ball
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/58065
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Dragon Ball GT
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/58130
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Dragon Ball Super
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/58262
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Gigantosaurus
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/57429
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 Os Simpsons
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/44308
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 O Chefinho De Volta Aos Negocios
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/44309
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 PatoAventuras
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/57886
+#EXTINF:0 tvg-id="ext" group-title="Portugal",24/7 T.O.P.S.
+http://tetasloucas.chupa-mos.live:80/phr3akt00ls/hLOhaL6W8I/48232
